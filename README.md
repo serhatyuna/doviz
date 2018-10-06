@@ -10,6 +10,6 @@ git clone https://github.com/serhatyuna/doviz.git
 # Change the directory
 cd doviz
 
-# Before run the script, make sure you have installed libraries
+# Before run the script, make sure you have installed libraries (BeautifulSoup, requests)
 python doviz.py
 ```
