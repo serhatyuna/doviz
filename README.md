@@ -13,3 +13,6 @@ cd doviz
 # Before run the script, make sure you have installed libraries (BeautifulSoup, requests)
 python doviz.py
 ```
+
+## LICENSE
+doviz is licensed under the 'GNU General Public License v3.0'
